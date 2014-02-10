@@ -1,0 +1,4 @@
+```python
+def function():
+    pass
+```
