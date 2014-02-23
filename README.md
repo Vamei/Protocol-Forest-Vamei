@@ -12,7 +12,7 @@ Potocol-Forest-Vamei
 
 -----
 
-** "The Forest of The Protocol" **: a open-source writing project.
+* "The Forest of The Protocol" * : a open-source writing project.
 
 This book is based on the content of [Vamei's blog](http://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html), which
 is a simple introduction to the complicated eco-system of the network protocols. 
