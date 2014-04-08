@@ -1,4 +1,4 @@
-Potocol-Forest-Vamei
+gPotocol-Forest-Vamei
 =====================
 
 《协议森林》开源写作计划
@@ -8,19 +8,28 @@ Potocol-Forest-Vamei
 公共写书计划为一个公益项目。
 出版所得将以所有参与者的名义，捐给信息相关的公益和开源项目。
 
-欢迎你的积极参与。现在特别需要代码演示，Linux/Mac OS/Windows下的工具演示，插画。
+欢迎你的参与。现在特别需要
+* 代码演示
+* Linux/Mac OS/Windows下的工具演示
+* 插画。
 
 -----
 
 "The Forest of The Protocol" : a open-source writing project.
 
 This book is based on the content of [Vamei's blog](http://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html), which
-is a simple introduction to the complicated eco-system of the network protocols. 
+is an introduction to deliver the concepts of the network protocols. 
 
-Any income from the possible publication will be donated to NGO organizations and the open-source campaign, in the name
-of all the contributors.
+Any income of the project will be donated to NGO organizations or the open-source campaign, in the name of all contributors.
 
-Now we are in need of the socket programming, the demonstration of network tools(Linux/Mac/Windows), and the
-illustrating sketchings.
+What we need: 
+* socket programming
+* demonstration of network tools (Linux/Mac/Windows)
+* enlighting sketchings.
 
-We sincerely hope that you may join our work.
+We sincerely hope that you can join us.
+
+-----
+
+## 目录
+
