@@ -32,13 +32,3 @@
 集线器: Hub  
 交换器: Switch  
 冲突检测: Collision Detection  
-  
-
-  
-  
-    
-
- 
-    
- 
-
