@@ -32,3 +32,19 @@
 集线器: Hub  
 交换器: Switch  
 冲突检测: Collision Detection  
+数据包: Datagram  
+套接字: Socket  
+头部: Header  
+子网掩码: Subnet Mask  
+路由表: Routing Table
+地址解析协议: Address Resolution Protocol   
+路由信息协议: Routing Information Protocol  
+路由器数目: Hop Number  
+邻居发现协议: Neighbor Discovery Protocol  
+自治系统: Autonomous System    
+边界网关协议: Border Gateway Protocol  
+互联网名称与数字地址分配机构: Internet Corporation for Assigned Names and Numbers  
+互联网号码分配局: Internet Assigned Numbers Authourity  
+区域互联网注册管理机构: Reginal Internet Registrie  
+网路服务提供商：Internet Service Provider  
+专用地址: Special Use Address      
