@@ -32,6 +32,7 @@
 集线器: Hub  
 交换器: Switch  
 冲突检测: Collision Detection  
+互联网协议: Internet Protocol
 数据包: Datagram  
 套接字: Socket  
 头部: Header  
@@ -44,7 +45,35 @@
 自治系统: Autonomous System    
 边界网关协议: Border Gateway Protocol  
 互联网名称与数字地址分配机构: Internet Corporation for Assigned Names and Numbers  
-互联网号码分配局: Internet Assigned Numbers Authourity  
-区域互联网注册管理机构: Reginal Internet Registrie  
+互联网号码分配局: Internet Assigned Numbers Authority  
+区域互联网注册管理机构: Regional Internet Registries  
 网路服务提供商：Internet Service Provider  
-专用地址: Special Use Address      
+专用地址: Special Use Address  
+版本: Version  
+存活时间: Time to Live    
+服务类型: Type of Service  
+差异化服务领域: Differentiated Service Field  
+显式拥塞通知: Explicit Congestion Notification  
+选项: Option  
+首部长度: Internet Header Length  
+总长度: Total Length  
+数据长度: Payload Length  
+延迟: Latency  
+碎片化: Fragmentation  
+重新组合: Reassembly  
+最大传输单元: Maximum Transportation Unit  
+流标签: Flow Label  
+不可靠的: Unreliable  
+顺序: Order  
+反码和: One's Complement Sum  
+互联网控制消息协议: Internet Control Message Protocol  
+错误: Error  
+回音: Echo  
+源头冷却: Source Quench  
+目的地无法到达: Destination Unreachable  
+超时: Time Exceeded  
+重新定向: Redirect  
+拒绝服务: Denial of Service  
+用户数据报协议: User Datagram Protocol   
+出发端口: Source Port  
+目的地端口: Destination port        
