@@ -76,4 +76,32 @@
 拒绝服务: Denial of Service  
 用户数据报协议: User Datagram Protocol   
 出发端口: Source Port  
-目的地端口: Destination port        
+目的地端口: Destination Port     
+传输控制协议: Transportation Control Protocol  
+文本流: Byte Stream  
+片段: Segment  
+序列号: Sequence Number  
+乱序:  Out of Order  
+确认: Acknowledge  
+重复发送: Retransmission  
+闲置: Idle  
+滑窗: Sliding Window  
+连接: Connection  
+双工: Duplex  
+同步序列编号: Synchronize Sequence Number   
+三路握手: Three-Way Handshaking  
+四次握手: Four-Way Handshaking  
+半双工: Half-Duplex  
+最大存活时间: Maximum Segment Lifetime   
+  
+  
+  
+  
+
+  
+  
+  
+   
+ 
+  
+   
