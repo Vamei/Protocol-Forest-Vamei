@@ -92,16 +92,4 @@
 三路握手: Three-Way Handshaking  
 四次握手: Four-Way Handshaking  
 半双工: Half-Duplex  
-最大存活时间: Maximum Segment Lifetime   
-  
-  
-  
-  
-
-  
-  
-  
-   
- 
-  
-   
+最大存活时间: Maximum Segment Lifetime  
