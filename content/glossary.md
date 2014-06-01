@@ -82,7 +82,7 @@
 片段: Segment  
 序列号: Sequence Number  
 乱序:  Out of Order  
-确认: Acknowledge  
+确认: Acknowledgement  
 重复发送: Retransmission  
 闲置: Idle  
 滑窗: Sliding Window  
@@ -93,3 +93,18 @@
 四次握手: Four-Way Handshaking  
 半双工: Half-Duplex  
 最大存活时间: Maximum Segment Lifetime  
+累计确认: Accumulative Acknowledgement  
+空穴: Hole  
+流量控制: Flow Control  
+死锁: Deadlock  
+窗口探测: Window Probe  
+白痴窗口综合症: Silly Window Syndrome   
+重新发送超时时间: Retransmission Timeout  
+往返时间: Round Trip Time  
+采样往返时间: Sampling Round Trip Time  
+快速重新发送: Fast Retransmission   
+堵塞崩溃: Congestion Collapse  
+堵塞控制: Congestion Control  
+堵塞窗口: Congestion Window   
+慢启动: Slow Start  
+堵塞规避: Congestion Avoidance      
