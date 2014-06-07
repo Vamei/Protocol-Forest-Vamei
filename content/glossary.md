@@ -107,4 +107,16 @@
 堵塞控制: Congestion Control  
 堵塞窗口: Congestion Window   
 慢启动: Slow Start  
-堵塞规避: Congestion Avoidance      
+堵塞规避: Congestion Avoidance  
+域名: Domain Name   
+域名解析系统: Domain Name System   
+域名解析系统服务器: DNS Server   
+域名解析模块: DNS Resolver   
+超文本文档: Hypertext Document    
+资源: Resource   
+请求: Request   
+状态码: Status Code    
+无状态: Stateless    
+无类别域间路由: Classless Inter Domain Routing    
+网络地址转换:  Network Address Translation  
+网络地址端口转换:  Network Address Port Translation        
