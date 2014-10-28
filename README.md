@@ -1,6 +1,8 @@
 gPotocol-Forest-Vamei
 =====================
 
+"The Forest of The Protocol" : a concise introduction to network protocols
+
 《协议森林》开源写作计划
 
 这本书基于[Vamei的博客](http://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html)内容。
@@ -15,7 +17,7 @@ gPotocol-Forest-Vamei
 
 -----
 
-"The Forest of The Protocol" : a open-source writing project.
+"The Forest of The Protocol"
 
 This book is based on the content of [Vamei's blog](http://www.cnblogs.com/vamei/archive/2012/12/05/2802811.html), which
 is an introduction to deliver the concepts of the network protocols. 
